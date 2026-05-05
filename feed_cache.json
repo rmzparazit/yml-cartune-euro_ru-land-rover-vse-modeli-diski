@@ -1,0 +1,72 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db23e/": {
+        "fingerprint": "40c05b6d5fba9ee7a3390d2281131151",
+        "raw_data": {
+            "h1_title": "Диски Land Rover FREELANDER 2007",
+            "brand": "Land Rover",
+            "price_raw": "32999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_413.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_414.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_415.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_416.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_417.jpg"
+            ],
+            "specs": {
+                "Марка": "Land Rover",
+                "Модель": "FREELANDER",
+                "Кузов": "L359",
+                "Двигатель": "B6324S",
+                "Год": "2007",
+                "Номер по производителю": "6H521007KA",
+                "Производитель": "Land Rover",
+                "Размер": "8Jx18 ET55"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Land Rover FREELANDER. Без сварки и трещин. Привезены из Японии. 8Jx18 ET55",
+            "sales_notes": "8Jx18 ET55, арт. 6H521007KA",
+            "custom_labels": [
+                "Land Rover",
+                "Контрактный",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Land Rover FREELANDER 2007",
+                    "description": "Оригинальные диски Land Rover FREELANDER 2007 L359 B6324S. Без сварки и трещин. Привезены из Японии. Размер 8Jx18 ET55. Артикул 6H521007KA."
+                },
+                {
+                    "title": "Диски Land Rover FREELANDER 2007",
+                    "description": "Контрактные диски Land Rover FREELANDER 2007. Состояние: без сварки и трещин. Размер 8Jx18 ET55. Номер 6H521007KA."
+                },
+                {
+                    "title": "Диски Land Rover FREELANDER 2007",
+                    "description": "Оригинальные диски Land Rover FREELANDER 2007 года. Привезены из Японии. Размер 8Jx18 ET55. Артикул 6H521007KA."
+                },
+                {
+                    "title": "Диски Land Rover FREELANDER 2007",
+                    "description": "Диски Land Rover FREELANDER 2007 L359. Без сварки и трещин. Размер 8Jx18 ET55. Номер 6H521007KA."
+                },
+                {
+                    "title": "Диски Land Rover FREELANDER 2007",
+                    "description": "Оригинальные диски Land Rover FREELANDER 2007. Состояние: без сварки и трещин. Размер 8Jx18 ET55. Артикул 6H521007KA."
+                },
+                {
+                    "title": "Диски Land Rover FREELANDER 2007",
+                    "description": "Контрактные диски Land Rover FREELANDER 2007. Привезены из Японии. Размер 8Jx18 ET55. Номер 6H521007KA."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год]. Без [дефекты]. Привезены из [страна]. [размеры] [артикул]",
+            "collection_description": "Контрактная Диски Land Rover FREELANDER (кузов L359, двс B6324S)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:44:10.674763"
+    }
+}
